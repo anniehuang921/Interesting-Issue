@@ -3,5 +3,6 @@ There are some interesting things about Python use. Moreover, sometimes would co
 
 ##Topics
 * Slides in IPython
+* Crawler note
 
 
